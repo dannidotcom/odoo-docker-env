@@ -1,5 +1,4 @@
 services:
-
   web:
     image: odoo:17
     depends_on:
